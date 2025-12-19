@@ -3,10 +3,10 @@
 **`Desenvolvedor FullStack`**
 
 Sou Desenvolvedor Full Stack com formação em Análise e Desenvolvimento de Sistemas e experiência na criação de soluções completas e escaláveis. Atuo com tecnologias como ASP.NET Core/.NET, C#, VB, HTML5, CSS, JavaScript, TypeScript, Node.js, Angular, React e Vue.js, desenvolvendo aplicações baseadas em REST APIs, arquitetura de microsserviços, SPA e MVC.
-Tenho vivência em bancos de dados SQL Server e Firebird, além de práticas DevOps com Azure, Docker e pipelines CI/CD. Nos projetos Datacar e EscolarManager, participei ativamente no desenvolvimento de novas funcionalidades, customizações, correções e otimizações de performance, sempre buscando entregar soluções estáveis, eficientes e de alto valor para o usuário final. <br>   
+Tenho vivência em bancos de dados SQL Server e Firebird, além de práticas DevOps com Azure, Docker e pipelines CI/CD. Nos projetos Datacar e EscolarManager, participei ativamente no desenvolvimento de novas funcionalidades, customizações, correções e otimizações de performance, sempre buscando entregar soluções estáveis, eficientes e de alto valor para o usuário final.
 Meu linkedin: [Felipe Martins](https://www.linkedin.com/in/felipe-martins-pagnez-abb113243/)
 
-[<p align="left">
+<!-- <p align="left">
     <a href="https://github.com/FelipeMPagnez?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
@@ -21,7 +21,7 @@ Meu linkedin: [Felipe Martins](https://www.linkedin.com/in/felipe-martins-pagnez
             src="https://custom-icon-badges.demolab.com/github/followers/FelipeMPagnez?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
-</p>](url)
+</p> -->
 
 ---
 
